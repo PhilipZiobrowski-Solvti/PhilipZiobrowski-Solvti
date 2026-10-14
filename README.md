@@ -21,3 +21,5 @@ Solvti helps companies bring order to their operations through **Odoo implementa
 **Practical software. Connected processes. Real business impact.**
 
 [Explore Solvti →](https://solvti.com) &nbsp; · &nbsp; [Get in touch →](mailto:philip.ziobrowski@solvti.com)
+
+<sub>Most of my day-to-day work lives in private repositories. This profile is a small window into what I do.</sub>
