@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Philip Ziobrowski — Software developer at Solvti</title>
+  <desc id="desc">Odoo. Connected systems. Simpler workflows. A charcoal and teal banner inspired by Solvti.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.5"><stop stop-color="#101213"/><stop offset="0.5" stop-color="#11232e"/><stop offset="1" stop-color="#078e8e"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#11c7c9" stop-opacity="0.1"/><stop offset="1" stop-color="#11c7c9" stop-opacity="0.6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5">
+    <path d="M850 0v70l95 55h155l100 60M940 0v48l100 58h160M1200 285h-180l-95 55v40M1200 235h-125l-70 40H860"/>
+    <rect x="914" y="145" width="138" height="82" rx="14"/>
+    <path d="m963 171-15 15 15 15m40-30 15 15-15 15m-14-35-12 40" stroke="#57dddd" stroke-opacity="0.55" stroke-width="3"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="65" fill="#24d0cf" font-size="14" font-weight="700" letter-spacing="3">TECHNOLOGY. PEOPLE. IMPACT.</text>
+    <text x="58" y="143" fill="#f2f4f6" font-size="52" font-weight="700" letter-spacing="-1.5">Philip Ziobrowski</text>
+    <text x="60" y="188" fill="#d4dfe4" font-size="24">Software developer at SOLVTI</text>
+    <rect x="60" y="217" width="48" height="4" rx="2" fill="#df1734"/>
+    <text x="60" y="265" fill="#f2f4f6" font-size="23">Odoo. Connected systems. Simpler workflows.</text>
+    <text x="60" y="326" fill="#9fc7cd" font-size="15" letter-spacing="1">WROCŁAW, POLAND</text>
+    <text x="1138" y="326" text-anchor="end" fill="#f2f4f6" font-size="22" font-weight="700" letter-spacing="2">SOLVTI</text>
+  </g>
+</svg>
