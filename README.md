@@ -14,8 +14,6 @@ I'm **Philip**, a software developer at **[Solvti](https://solvti.com)** in Wroc
 
 Solvti helps companies bring order to their operations through **Odoo implementations, custom development and integrations**. The focus is simple: technology that supports the business, not the other way around.
 
-Alongside ERP, the team is building **Solvti.ai** — role-based AI agents connected to business systems, with people in control of approvals.
-
 **Odoo ERP** · **Business automation** · **Integrations** · **AI for business**
 
 ---
@@ -23,5 +21,3 @@ Alongside ERP, the team is building **Solvti.ai** — role-based AI agents conne
 **Practical software. Connected processes. Real business impact.**
 
 [Explore Solvti →](https://solvti.com) &nbsp; · &nbsp; [Get in touch →](mailto:philip.ziobrowski@solvti.com)
-
-<sub>Most of my day-to-day work lives in private repositories. This profile is a small window into what I do.</sub>
